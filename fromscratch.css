@@ -1,0 +1,16 @@
+
+body {background-color: brown; font-family: monospace; color: black;
+}
+a {color:black; text-decoration: none;text-align: center;
+}
+
+h1 {font-size: 80px;}
+
+.header {text-decoration: underline;text-align: center;}
+
+li {text-align: left;font-size: 18px;}
+
+h3{text-align: left;font-style: italic;font-size: 12px;color: yellow;}
+
+.links {text-align: center;}
+img{padding-left: 2cm;position: relative;width: 400px;}
